@@ -1,0 +1,22 @@
+{
+  "name": "jb-style-mobile",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eynStudio/jb-style-mobile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eynStudio/jb-style-mobile/issues"
+  },
+  "homepage": "https://github.com/eynStudio/jb-style-mobile#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "jb-style": "^0.0.10"
+  }
+}
